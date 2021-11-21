@@ -1,11 +1,11 @@
-# Cyber Japan Coffee コーヒー
--This is a web page layout project with a cyber coffee theme located in japan.
+# Login App Project
+(It's just layout so there's no backend.)
 
--I used the SASS pre-processor, HTML, CSS and some decisions with UI searches.
+ This is an account creation design in an app I developed with Adobe XD and Figma programs, I also put some things I learned about UX / UI in it. 
 
- -SVG'S site: https://undraw.co/<br>
-
-
+Sites I used:
+https://undraw.co
+https://unsplash.com
 
 
 <img src = "./App-project.jpg" title="imgapp"></img>
