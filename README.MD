@@ -7,7 +7,8 @@
 Sites I used:
 
 https://undraw.co <br>
-https://unsplash.com
+https://unsplash.com <br>
+https://pinterest.com
 
 
 <img src = "./App-project.jpg" title="imgapp"></img>
